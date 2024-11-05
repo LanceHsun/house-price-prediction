@@ -3,3 +3,8 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+scipy
+seaborn
+mlxtend
+lightgbm
+xgboost
